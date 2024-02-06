@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C6TMh7trcUjLnN2tmPt2wHfB88v9UkNP8UZCkKG8ZNHAjKHTIvPyGhcyCjDiC8jSUjeZRoHf8SR+IJMoSGBFBA==",
+  "success": true,
+  "projectFilePath": "D:\\TechNest\\RabbitMQ\\RabbitMQPublisher\\RabbitMQPublisher\\RabbitMQPublisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mehra\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\mehra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\mehra\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
